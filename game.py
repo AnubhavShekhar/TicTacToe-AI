@@ -1,5 +1,4 @@
 from player import HumanPlayer, RandomComputerPlayer, AIComputerPlayer
-from icecream import ic
 import time
 from typing import List, Union
 
